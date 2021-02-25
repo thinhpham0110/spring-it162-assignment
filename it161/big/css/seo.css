@@ -1,0 +1,13 @@
+.resource a {
+        color: #000;
+}
+.resource {
+        padding-left: 1rem;
+}
+.resource li:not(:last-child) {
+        margin-bottom: 0.5rem;
+}
+
+.resource a:hover {
+        color: #1877f2;
+}
